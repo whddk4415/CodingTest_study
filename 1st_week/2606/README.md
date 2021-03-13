@@ -40,3 +40,28 @@
 ```
 4
 ```
+
+## 알고리즘 분류
+
+<details>
+    <summary>
+        보기
+    </summary>
+    <div markdown="1">   
+    	<ul>
+            <li>
+                그래프 이론
+            </li>
+            <li>
+                그래프 탐색
+            </li>
+            <li>
+                너비 우선 탐색
+            </li>
+            <li>
+                깊이 우선 탐색
+            </li>
+    	</ul>
+    </div>
+</details>
+
