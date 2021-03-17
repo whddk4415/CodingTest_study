@@ -36,3 +36,19 @@ RGB거리에는 집이 N개 있다. 거리는 선분으로 나타낼 수 있고,
 ```
 96
 ```
+
+
+## 알고리즘 분류
+
+<details>
+    <summary>
+        보기
+    </summary>
+    <div markdown="1">   
+    	<ul>
+            <li>
+                다이나믹 프로그래밍
+            </li>
+    	</ul>
+    </div>
+</details>
