@@ -1,3 +1,4 @@
+
 N = int(input())
 M = int(input())
 
@@ -13,5 +14,5 @@ for i in range(0,1000001):
       result = i
 
 answer = min(abs(N-100),mini+len(str(result)))
-print(answer)
 
+print(answer)
