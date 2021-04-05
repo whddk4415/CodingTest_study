@@ -57,8 +57,8 @@ function solution() {
     isVisited[v] = false;
   };
   dfs(0, 1, numArr[0], 0);
-  console.log(max);
-  console.log(min);
+  console.log(parseInt(max));
+  console.log(parseInt(min));
 }
 
 solution();
